@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
- 
+
 int main()
 {
     int t = 0, n = 0, m = 0, s1 = 0, s2 = 0, d=0;
