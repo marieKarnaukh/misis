@@ -42,3 +42,4 @@ int main()
     }
     std::cout << win << "\n";
 }
+
