@@ -30,3 +30,4 @@ int main()
     }
     std::cout << k << "\n";
 }
+
