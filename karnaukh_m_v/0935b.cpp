@@ -27,7 +27,6 @@ int main()
         {
             flag = step;
         }
-        
     }
     std::cout << k << "\n";
 }
