@@ -1,5 +1,5 @@
 #include <iostream>
- 
+
 int main()
 {
     long long int a = 0;
@@ -23,3 +23,4 @@ int main()
     }
     else std::cout << "Yes";
 }
+
