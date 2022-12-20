@@ -15,7 +15,6 @@ int main()
             {
                 if (k / x <= m)
                     m = k / x;
- 
             }
         }
         std::cout << m << "\n";
